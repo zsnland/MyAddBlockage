@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0",
+  "name": "MyAddBlockage",
+  "id": "6c22fa7d-07fe-4dd6-8a30-c6eb04378a48",
+  "isNew": false
+}
